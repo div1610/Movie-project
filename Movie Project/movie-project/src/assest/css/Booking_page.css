@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+a {
+    text-decoration: none;
+}
+.d-flex{
+    display: flex;
+}
+.justify-content-space-between{
+    justify-content: space-between;
+}
+.align-item-center{
+    align-items: center;
+}
+.w-60{
+    width: 60%;
+}
+.w-40{
+    width: 40%;
+}
+
+/* HEADER */
+
+header{
+    background-color: #333545;
+}
+header .logo a img{
+    padding-top: 15px;
+    width: 100px;
+}
+header .signin .sign-btn{
+    padding: 10px 20px;
+    background-color: #f34362;
+    color: #fff;
+    border-radius: 10px;
+}
+header .signin .city{
+    padding: 8px 15px;
+    margin: 0 20px;
+    background-color: transparent;
+    color: #fff;
+    border: none;
+    outline: none;
+}
+header .signin option{
+    background-color: #333545;
+}

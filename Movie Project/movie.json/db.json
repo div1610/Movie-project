@@ -1,0 +1,158 @@
+{
+    "movie": [
+        {
+            "id": 1,
+            "title": "Simba",
+            "image": "https://contentserver.com.au/assets/661569_p16310730_p_v8_aa.jpg",
+            "type": [
+                "2D ",
+                "3D ",
+                "IMAX ",
+                "ICE"
+            ],
+            "language": [
+                "Hindi ",
+                "English"
+            ],
+            "genre": [
+                "Action /",
+                "Children`s film / ",
+                "Animation /",
+                "Drama"
+            ],
+            "duration": "2h 38min",
+            "certificate": "U/A",
+            "release": "28-12-2018",
+            "rating": "5.5/10",
+            "vote": "21k Votes",
+            "schedule": "In Cinema",
+            "about movie": "Sangram Simmba Bhalerao is an antiheroic orphan from Shivgad, the same town where Bajirao Singham was raised, where he observes how policemen make money in the form of bribes, finding himself motivated to become a police officer, and succeeds. Getting bribes from some local thieves and a jeweller, Simmba enjoys and takes full advantage of the lifestyle of a corrupt cop.",
+            "role": {
+                "hero": "Ranbeer Singh",
+                "heroine": "Sara Ali Khan",
+                "Villain": "Sonu Sood"
+            },
+            "directore name": "Rohit Shetty",
+            "bg_image":"https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-0-36802/list/1170x658withlogo772fb1f5872c4b468536684b529779e4.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Ram Setu",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1QcQTCt2fieJ31Im2wMs2H-IAJpw-646y-3JdJS_ChL3CFFwC",
+            "type": [
+                "2D ",
+                "3D ",
+                "IMAX"
+            ],
+            "language": [
+                "Hindi "
+            ],
+            "genre": [
+                "Action /",
+                "Adventure /",
+                "Drama"
+            ],
+            "duration": "2h 23min",
+            "certificate": "U/A",
+            "release": "25-8-2022",
+            "rating": "5.2/10",
+            "vote":"16k Votes",
+            "schedule": "In Cinema",
+            "about movie": "Ram Setu (transl. The bridge of Rama) is a 2022 Indian Hindi-language action-adventure film[4] directed by Abhishek Sharma. The film stars Akshay Kumar, Jacqueline Fernandez, Nushrratt Bharuccha and Satya Dev and follows an archeologist who is investigating the nature of Rama Setu, also known as Adam's Bridge.The film was announced in November 2020 with principal photography commencing in Mumbai on 30 March 2021. Production suffered setbacks and delays amid the COVID-19 pandemic. Filming resumed in October 2021 and wrapped in January 2022 taking place near Ooty, Gujarat, Daman and Diu, Maldives and Mumbai.Ram Setu was theatrically released on 25 October 2022 during Diwali festivities and opened to negative reviews from critics. The film grossed ₹93 crore at the worldwide box office, failing to recoup its ₹150 crore budget.",
+            "role": {
+                "hero": "Akshay Kumar, Satyadev Kancharana",
+                "heroine": "Jacqueline Fernandez, Nushrratt Kancharana"
+            },
+            "directore name": "Abhishek Shrma",
+            "bg_image":"https://static.tnn.in/photo/msid-96447344,width-100,height-200,resizemode-75/96447344.jpg"
+        },
+        {
+            "id": 3,
+            "title": "An Action Hero",
+            "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQa0Zi2WnzZuxqkxu4nVyblAV2BKWvBbPHFkcfhXeZ5-gbKdCfB",
+            "type": [
+                "2D "
+            ],
+            "language": [
+                "Hindi "
+
+            ],
+            "genre": [
+                "Action / ",
+                "Comedy / ",
+                "Crime"
+            ],
+            "duration": "2h 10min",
+            "certificate": "U/A",
+            "release": "2-12-2022",
+            "rating": "4.5/10",
+            "vote":"28k Votes",
+            "schedule": "In Cinema",
+            "about movie": "An Action Hero is a 2022 Indian Hindi-language action film[2] directed by debutant Anirudh Iyer and written by Neeraj Yadav, based on an original story by Iyer. It was produced by Bhushan Kumar and Krishan Kumar, under T-Series Films, and Aanand L. Rai, under Colour Yellow Productions. The film stars Ayushmann Khurrana and Jaideep Ahlawat in lead roles.",
+            "role": {
+                "hero": "Ayushmann Khurana, Jaideep Ahlawat Neeraj Madhav"
+            },
+            "directore name": "Anirudh Iyer",
+            "bg_image":"https://static.toiimg.com/photo/95764530.jpeg"
+        },
+        {
+            "id": 4,
+            "title": "Bholaa",
+            "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRI_Owr6ghUx2TRlF-if7hc9usc-59VppAk2HoY7nIyzPhBCpPj",
+            "type": [
+                "2D ",
+                "3D "
+            ],
+            "language": [
+                "Hindi "
+            ],
+            "genre": [
+                "Action / ",
+                "Adventure /"
+            ],
+            "duration": "2h 23min",
+            "certificate": "U/A",
+            "release": "30-03-2023",
+            "rating": "8.1/10",
+            "vote": "15k Votes",
+            "schedule": "In Cinema",
+            "about movie": "Bholaa is a 2023 Indian Hindi-language action-adventure film[4][5][6] directed by Ajay Devgn and jointly produced by Ajay Devgn FFilms, Reliance Entertainment, T-Series Films and Dream Warrior Pictures. It is a remake of the 2019 Tamil film Kaithi and stars Devgn in the titular role alongside Tabu, Deepak Dobriyal, Sanjay Mishra, Gajraj Rao and Vineet Kumar while Amala Paul, Abhishek Bachchan and Raai Laxmi make special appearances. The film follows an ex-convict who battles criminals while transporting a truck full of poisoned cops to the hospital in exchange for meeting his daughter after ten years of imprisonment.",
+            "role": {
+                "hero": "Ajay Devgan, Amala Paul",
+                "heroine": "Tabu"
+            },
+            "directore name": "Ajay Devgan",
+            "bg_image":"https://cityspideynews.s3.amazonaws.com/uploads/spidey/202211/bholaa-1669111445.webp"
+
+        },
+        {
+            "id": 5,
+            "title": "Yodha",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTgzZTMwNjYtYWM3NC00Nzc4LTg5YzAtZGQ2MTE0MDc1NjY4XkEyXkFqcGdeQXVyNjUwMjYwMjE@._V1_.jpg",
+            "type": [
+                "2D "
+            ],
+            "language": [
+                "Hindi "
+            ],
+            "genre": [
+                "Action /",
+                "Drama /",
+                "Thiller"
+            ],
+            "duration": "",
+            "certificate": "",
+            "release": "7-7-2023",
+            "rating": "Coming Soon",
+            "vote": "",
+            "schedule": "Coming Soon",
+            "about movie": "An Aeroplane hijack where a soldier helps the passenger and fight against the terrorist. But the damage to the flight engine made it very tough to survive the situation.",
+            "role": {
+                "hero": "Sidharth Malhotra",
+                "heroine": "Rshi Khanna, Disha Patni"
+            },
+            "directore name": "Sagar Ambre, Pushkar Ojha",
+            "bg_image":"https://i.ytimg.com/vi/gauMEBFmFzA/maxresdefault.jpg"
+        }
+]
+}
